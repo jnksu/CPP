@@ -1,0 +1,1 @@
+#define PR(X) printf("name: " #X " value: %d address: %p\n", X, &X)	//输出一个变量的属性
